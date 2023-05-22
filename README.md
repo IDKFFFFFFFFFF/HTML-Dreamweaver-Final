@@ -1,3 +1,4 @@
 # Blog
-This is from my original migration from google sites to adobe
-Here is my original website on google sites https://sites.google.com/student.allenisd.org/estebantechesport2/home
+It wont let me add the folders of the zip file from dreamweaver on the chromebook no clue why this sucks.
+This is now the final copy of this
+al website on google sites https://sites.google.com/student.allenisd.org/estebantechesport2/home
